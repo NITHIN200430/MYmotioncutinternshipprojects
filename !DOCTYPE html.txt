@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Nippon Paints Automative Americas </title>
+    <link rel="icon" href="https://iconape.com/wp-content/png_logo_vector/nippon.png"> 
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+    </style>
+</head>
+      <style type="text/css">
+        body{
+            background-image: url("https://wallpapercave.com/wp/9DUWNZk.jpg");
+        }
+      </style>
+<body>
+    
+    <header>
+        <h1>Welcome to Our Paint Company</h1>
+    </header>
+    <center>
+        <p>
+            <a href="https://www.nipponpaintamericas.com/">Home |</a>
+            <a href="https://www.nipponpaintamericas.com/about/">About Us |</a>
+            <a href="https://www.nipponpaintamericas.com/contact/">Contact | </a>
+            <a href="https://www.nipponpaintamericas.com/products/">Products</a>
+        </p>
+      </center>
+    <div class="container">
+        <h2>About Us</h2>
+        <p>We are a leading paint company dedicated to providing high-quality paints for all your needs.</p>
+        
+        <h2>Water Proofing</h2>
+        <div>
+            <img src="https://i.pinimg.com/originals/50/6b/0e/506b0ee2645f1b53d7e5f54c75761aa0.jpg" align="right" width="340" height="280" alt="hero image" />
+        </div>
+        <p>Devised modern waterproofing techniques to make your home water resistant for years to come.</p>
+        <link rel="icon" href="https://static.asianpaints.com/content/dam/asian_paints/sps_overhaul/webp-images/services/sps-offerings-waterproofing-asian-paints-new.webp">
+        <h2>Our Products</h2>
+        <p>Explore our wide range of paint products for both residential and commercial use.</p>
+        <ul>
+            <li>Interior Paints</li>
+            <li>Exterior Paints</li>
+            <li>Specialty Paints</li>
+        </h2>
+        </ul>
+<h2>Contact Us</h2>
+        <p>Feel free to contact us at <a href="mailto:nippon@paintcompany.com">nippon@paintcompany.com</a>.</p>
+    </div>
+    <hr>
+    <center>
+    <h1>Contact</h1>
+    <h2>+91 876543217 | nipponpaint@gmail.com  </h2>
+    <p>9th Street Avenue Park,Trichy-625620</p>
+</center>
+    </body>
+</body>
+</html>
